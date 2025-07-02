@@ -19,3 +19,8 @@ if we pass null it will sort Alphabetical order,
 or we want to  sort based on length then we can do this ->
 
 ![image](https://github.com/user-attachments/assets/9ea2c859-b8af-488b-af28-a0a744f19d79)
+
+
+## Comparator_for_object.java file output
+
+![image](https://github.com/user-attachments/assets/38b333cb-47e8-4be5-9f20-1e90b876b2f2)
