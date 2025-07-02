@@ -12,7 +12,7 @@ public class Main {
       arr.add(0);
       arr.add(4);
       System.out.println(arr);
-      arr.sort(new MyComparator());   //passed null so it sorted it in a assending order
+      arr.sort(new MyComparator());  
       System.out.println(arr);
       }
 }
